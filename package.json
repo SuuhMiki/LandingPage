@@ -2,7 +2,7 @@
   "name": "landing-page",
   "version": "1.0.0",
   "description": "A simple landing page project",
-  "main": "src/index.html",
+  "main": "dist/index.html",
   "scripts": {
     "dev": "gulp watch",
     "start": "live-server src",

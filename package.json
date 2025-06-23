@@ -1,0 +1,28 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "A simple landing page project",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "gulp watch",
+    "start": "live-server src",
+    "build": "gulp",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "live-server": "^1.2.1",
+    "sass": "^1.89.2"
+  }
+}

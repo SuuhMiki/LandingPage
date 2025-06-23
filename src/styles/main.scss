@@ -35,7 +35,7 @@ button,
     }
 
     &:active {
-        background: darken($cor-btn-hover, 10%);
+        
         transform: scale(0.98);
     }
 }
